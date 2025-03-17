@@ -6,6 +6,8 @@ import Favorite from "./pages/Favorite"
 import {Route, Routes} from "react-router-dom";
 import Navbar from "./components/NavBar";
 
+import "./css/App.css"
+
 
 function App() {
 
